@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="check3" size="0.220000 0.131912" />
+    <ImageTarget name="check2" size="0.220000 0.250359" />
+    <ImageTarget name="check1" size="0.220000 0.277071" />
+    <ImageTarget name="combined" size="0.220000 0.110886" />
+    <ImageTarget name="stonesExtend" size="0.220000 0.223520" />
+    <ImageTarget name="brick" size="0.220000 0.220000" />
+  </Tracking>
+</QCARConfig>
